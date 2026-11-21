@@ -1,0 +1,16 @@
+{
+  "name": "sanatci-portfolio",
+  "version": "1.0.0",
+  "description": "YaratÄ±cÄ± sanatÃ§Ä± web sitesi - etili geÃ§iÅŸler ve sayfa aÃ§Ä±lÄ±ÅŸ animasyonlarÄ±",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site ready for GitHub Pages''
+  },
+  "devDependencies": {
+    "lenis": "^1.1.13",
+    "gsap": "^3.12.5",
+    "@gsap/scrolltrigger": "^3.12.5",
+    "barba.js": "^1.0.0",
+    "serve": "^14.2.1"
+  }
+}
